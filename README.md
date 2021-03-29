@@ -4,7 +4,7 @@ Essa Analise de Dados é baseada no consumo de cerveja, os dados foram coletados
 
 -Objetivos:
 
-- Análise Descritivas das variaveis independentes
-- Analise descritivas da variavel dependentes
+- Análise Descritiva das variaveis independentes
+- Analise descritiva da variavel dependente
 - Correlação das variaveis e seleção de features 
 - Prever o consumo médio de cerveja utilizando o algoritmo de regressão linear
